@@ -7,3 +7,8 @@
 :root {
   font-family: "Lato", sans-serif;
 }
+
+/* styles.css or index.css */
+html {
+  scroll-behavior: smooth;
+}
